@@ -153,7 +153,7 @@ class _BmiState extends State<Bmi> {
                       },
                       keyboardType: TextInputType.number,
                       decoration: InputDecoration(
-                        labelText: 'Height',
+                        labelText: 'HEIGHT',
                         filled: true,
                         fillColor: Colors.white,
                         border: OutlineInputBorder(
